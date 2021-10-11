@@ -1,5 +1,9 @@
-# Portfolio
+# Personal Portfolio Page - Responsive Web Design Projects
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/zer0fr0st93/pen/GGxYNj](https://codepen.io/zer0fr0st93/pen/GGxYNj).
+![](Preview.png)
+
+Personal Portfolio page created on CodePen.io by me for Responsive Web Design Projects on freecodecamp.org.
+
+Original URL: [https://codepen.io/zer0fr0st93/pen/GGxYNj](https://codepen.io/zer0fr0st93/full/GGxYNj)
 
 
