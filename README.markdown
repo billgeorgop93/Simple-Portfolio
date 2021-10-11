@@ -6,4 +6,4 @@ Personal Portfolio page created on CodePen.io by me for Responsive Web Design Pr
 
 Original URL: [https://codepen.io/zer0fr0st93/pen/GGxYNj](https://codepen.io/zer0fr0st93/full/GGxYNj)
 
-
+Live URL: https://zer0fr0st93.github.io/Simple-Portfolio/
